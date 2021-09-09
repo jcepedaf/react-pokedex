@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+//import App from './App';
+//import reportWebVitals from './reportWebVitals';
 
 //exercise B
 
-const element = <div>Hello World</div>
+const element = <h1>Hello Code Your Future</h1>
 
     const rootElement = document.getElementById('root')
     ReactDOM.render(element, rootElement)
